@@ -106,7 +106,7 @@ const darshan = {
 <tr>
 <td width="50%">
 
-### 🚀 [Project Codex](https://github.com/darshan572/project-alpha](https://darshan572.github.io/Codex_Project/Codex/index.html)
+### 🚀 [Project Codex](https://darshan572.github.io/Codex_Project/Codex/index.html)
 **Modern Web App with React & Firebase**
 - ⚡ Real-time data synchronization
 - 🎨 Beautiful UI with Tailwind CSS
