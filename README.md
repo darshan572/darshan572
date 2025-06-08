@@ -1,182 +1,227 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Darshan - Frontend Developer</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            color: #333;
-            line-height: 1.6;
-        }
-        h1, h2, h3 {
-            color: #2d2d2d;
-        }
-        h1 {
-            text-align: center;
-            margin-bottom: 10px;
-        }
-        h3 {
-            text-align: center;
-            margin-top: 0;
-            color: #555;
-            font-weight: normal;
-        }
-        .badges {
-            text-align: center;
-            margin: 20px 0;
-        }
-        .badges img {
-            margin: 0 5px;
-        }
-        hr {
-            border: 0;
-            height: 1px;
-            background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
-            margin: 30px 0;
-        }
-        pre {
-            background: #f4f4f4;
-            padding: 15px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        .tech-stack {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-            margin: 20px 0;
-        }
-        .tech-category {
-            flex: 1;
-            min-width: 200px;
-        }
-        .stats {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 20px;
-            justify-content: center;
-        }
-        .stats img {
-            max-width: 100%;
-            height: auto;
-        }
-        .projects {
-            margin: 20px 0;
-        }
-        .project {
-            margin-bottom: 15px;
-        }
-        .connect {
-            text-align: center;
-            margin: 30px 0;
-        }
-        .connect img {
-            margin: 0 10px;
-            transition: transform 0.3s;
-        }
-        .connect img:hover {
-            transform: scale(1.1);
-        }
-        .profile-views {
-            text-align: center;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-    <h1>👋 Hey there, I'm Darshan!</h1>
-    <h3>A passionate frontend developer crafting digital experiences</h3>
+# 🚀 Hey Universe, I'm Darshan! 
 
-    <div class="badges">
-        <a href="https://darshan572.github.io/Portfolio_F" target="_blank">
-            <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=#61DAFB" alt="Portfolio"/>
-        </a>
-        <a href="https://linkedin.com/in/your-profile" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-        <a href="mailto:darshanofficial572@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-        </a>
-    </div>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+New+Tech+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-    <hr>
+</div>
 
-    <h2>🚀 About Me</h2>
-    <pre><code>const darshan = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "HTML/CSS"],
-  frameworks: ["React", "Next.js", "Tailwind CSS"],
-  tools: ["Firebase", "VS Code", "Figma", "Git"],
-  architecture: ["Single Page Applications", "Responsive Design"],
-  funFact: "Can center a div but still afraid of CSS Grid sometimes"
-};</code></pre>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-    <h2>🛠 Tech Stack</h2>
-    <div class="tech-stack">
-        <div class="tech-category">
-            <h3>Frontend Development</h3>
-            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-        </div>
-        
-        <div class="tech-category">
-            <h3>Backend & Databases</h3>
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-            <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-        </div>
-        
-        <div class="tech-category">
-            <h3>Tools & Platforms</h3>
-            <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite">
-            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-            <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-        </div>
-    </div>
+### 🌟 About Me
 
-    <h2>📈 GitHub Stats</h2>
-    <div class="stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=darshan572&show_icons=true&theme=radical" alt="GitHub Stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan572&theme=radical" alt="GitHub Streak">
-    </div>
-    <div class="stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan572&layout=compact&theme=radical" alt="Top Languages">
-    </div>
+```javascript
+const darshan = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev", "UI/UX"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Vue"],
+            css: ["Tailwind", "Bootstrap", "Styled Components"]
+        },
+        backEnd: {
+            js: ["Node", "Express", "FastAPI"],
+            databases: ["MongoDB", "PostgreSQL", "Firebase"]
+        },
+        devOps: ["Docker", "AWS", "Vercel", "Netlify"],
+        tools: ["VS Code", "Git", "Figma", "Postman"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug code faster than I make coffee ☕"
+};
+```
 
-    <h2>🔥 Recent Projects</h2>
-    <div class="projects">
-        <div class="project">
-            <strong>Portfolio Website</strong> - Modern portfolio built with React and Framer Motion
-        </div>
-        <div class="project">
-            <strong>E-commerce Dashboard</strong> - Firebase-powered admin panel with real-time analytics
-        </div>
-        <div class="project">
-            <strong>Task Manager App</strong> - Todo application with drag-n-drop functionality
-        </div>
-    </div>
+<br clear="both">
 
-    <h2>📫 Let's Connect</h2>
-    <div class="connect">
-        <a href="https://darshan572.github.io/Portfolio_F" target="_blank">
-            <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" width="40" height="40" alt="Portfolio">
-        </a>
-        <a href="https://linkedin.com/in/your-profile" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn">
-        </a>
-        <a href="mailto:darshanofficial572@gmail.com">
-            <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40" alt="Gmail">
-        </a>
-    </div>
+---
 
-    <div class="profile-views">
-        <img src="https://komarev.com/ghpvc/?username=darshan572&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-    </div>
-</body>
-</html>
+## 🎯 What I'm Up To
+
+<table>
+  <tr>
+    <td>🔭 <b>Currently Working On</b></td>
+    <td>Full-stack web applications with React & Node.js</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Learning</b></td>
+    <td>Next.js 14, Three.js, WebGL, and Advanced TypeScript</td>
+  </tr>
+  <tr>
+    <td>👯 <b>Looking to Collaborate</b></td>
+    <td>Open source projects, React libraries, and cool web experiences</td>
+  </tr>
+  <tr>
+    <td>🤔 <b>Ask Me About</b></td>
+    <td>React, JavaScript, Web Performance, and UI/UX Design</td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend Magic ✨
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### Backend Power ⚡
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms 🔧
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darshan572&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan572&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan572&theme=tokyonight" alt="Streak Stats"/>
+</div>
+
+---
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 [Project Alpha](https://github.com/darshan572/project-alpha)
+**Modern Web App with React & Firebase**
+- ⚡ Real-time data synchronization
+- 🎨 Beautiful UI with Tailwind CSS
+- 📱 Fully responsive design
+- 🔐 Secure authentication
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+<td width="50%">
+
+### 🌟 [Portfolio Website](https://darshan572.github.io/Portfolio_F)
+**Interactive Developer Portfolio**
+- ✨ Smooth animations with Framer Motion
+- 🎯 Clean, modern design
+- 📊 Dynamic project showcase
+- 🌙 Dark/Light theme toggle
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darshan572&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://darshan572.github.io/Portfolio_F)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshanofficial572@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
+
+</div>
+
+---
+
+## 💡 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 [Building Scalable React Applications with TypeScript](https://your-blog.com/react-typescript)
+- 🎨 [Modern CSS Techniques for Better UX](https://your-blog.com/modern-css)
+- ⚡ [Optimizing Web Performance: A Developer's Guide](https://your-blog.com/web-performance)
+- 🔥 [Firebase vs Supabase: Which Backend Should You Choose?](https://your-blog.com/firebase-vs-supabase)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎵 Spotify Playing
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-id&count=1" alt="Spotify recently played"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan572&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ Star my repositories if you find them interesting!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=darshan572&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/darshan572?style=for-the-badge&color=blue)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  
+### ⚡ Fun Fact
+*I can solve a Rubik's cube faster than I can explain why my CSS isn't working* 🧩
+
+**Thanks for stopping by! Let's connect and build something amazing together! 🚀**
+
+</div>
