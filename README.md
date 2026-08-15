@@ -1,413 +1,262 @@
 <div align="center">
-
-# 👋 Hey Universe, I'm **Darshan**
-
-### `Full-Stack Developer` · `UI/UX Enthusiast` · `Builder`
-
-**I turn ideas into interfaces, interfaces into systems, and systems into products.**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-darshan572-181717?style=for-the-badge\&logo=github)](https://github.com/darshan572)
-[![Profile Views](https://komarev.com/ghpvc/?username=darshan572\&style=for-the-badge\&color=238636\&label=PROFILE+VIEWS)](https://github.com/darshan572)
-
-<br>
-
-### `BUILD • BREAK • DEBUG • REBUILD • SHIP`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=120&section=header&text=ENGINEER%20THE%20IMPOSSIBLE&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0F1F17,100:00FF9D&height=260&section=header&text=DARSHAN%20KUMAR&fontSize=58&fontColor=00FF9D&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C3%97%20Product%20Builder%20%C3%97%20Creator&descAlignY=55&descSize=18&descColor=8AFFCB" width="100%"/>
+<br/>
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=700&lines=turning+ideas+into+interfaces...;interfaces+into+systems...;systems+into+shipped+products.;third-year+CS+student+%40+Quantum+University;co-founder+%40+Prahar+%7C+core+team+%40+Pahal)
+<br/>
+<a href="https://github.com/darshan072?tab=followers"><img src="https://img.shields.io/github/followers/darshan072?label=Followers&style=for-the-badge&color=00FF9D&labelColor=0A0A0A" /></a>
+<a href="https://github.com/darshan072?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-00FF9D?style=for-the-badge&labelColor=0A0A0A" /></a>
+<img src="https://komarev.com/ghpvc/?username=darshan072&label=Profile%20Views&style=for-the-badge&color=00FF9D&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/Based%20in-Dehradun%2C%20India-00FF9D?style=for-the-badge&labelColor=0A0A0A" />
+<br/><br/>
+`BUILD` · `BREAK` · `DEBUG` · `REBUILD` · `SHIP`
 </div>
-
----
-
-# 🧬 `whoami`
-
-```js
+<br/>
+`#` whoami
+```javascript
 const darshan = {
-    identity: "Developer & Builder",
+  identity: "Full-Stack Developer & Product-Minded Engineer",
+  currently: "3rd Year @ Quantum University",
 
-    focus: [
-        "Full-Stack Web Development",
-        "Interactive UI/UX",
-        "Developer Experiences"
-    ],
+  roles: [
+    "Co-Founder @ Prahar — mentorship & career guidance for first-year devs",
+    "Core Team @ Pahal — Quantum University's student org"
+  ],
 
-    mindset: "Build first. Understand deeply. Ship better.",
+  mindset: "Understand deeply. Build first. Ship better.",
 
-    currently: "Turning ideas into real products",
+  focus: {
+    web:       ["React", "Next.js", "Node.js", "Express", "PostgreSQL", "MongoDB"],
+    exploring: ["AI/ML", "Cybersecurity", "IoT", "Cloud Infra"],
+    craft:     ["UI/UX", "Terminal & glitch aesthetics", "Gen-Z content design"]
+  },
 
-    interests: [
-        "Web Engineering",
-        "Product Development",
-        "UI/UX",
-        "Automation",
-        "Open Source"
-    ]
+  philosophy() {
+    return "I don't want to just learn technologies — I want to ship things people actually use.";
+  }
 };
 ```
-
-> **I don't want to just learn technologies.
-> I want to use them to build things people actually use.**
-
----
-
-# ⚡ `SYSTEM STATUS`
-
-| STATUS               | CURRENT STATE                             |
-| :------------------- | :---------------------------------------- |
-| 🧠 **Learning**      | JavaScript · TypeScript · Modern React    |
-| 🏗️ **Building**     | Full-Stack Applications                   |
-| 🎨 **Designing**     | Interactive Developer Experiences         |
-| 🔬 **Exploring**     | Web Performance · Advanced UI             |
-| 🌎 **Interested In** | Open Source · Collaboration · Hackathons  |
-| 🚀 **Goal**          | Become a stronger product-minded engineer |
-
----
-
-# 🛰️ `ENGINEERING OS`
-
-My development process is simple:
-
-```text
-                  ┌─────────────┐
-                  │    IDEA     │
-                  └──────┬──────┘
-                         ↓
-                  ┌─────────────┐
-                  │   RESEARCH  │
-                  └──────┬──────┘
-                         ↓
-                  ┌─────────────┐
-                  │  ARCHITECT  │
-                  └──────┬──────┘
-                         ↓
-                  ┌─────────────┐
-                  │    BUILD    │
-                  └──────┬──────┘
-                         ↓
-                  ┌─────────────┐
-                  │    BREAK    │
-                  └──────┬──────┘
-                         ↓
-                  ┌─────────────┐
-                  │    DEBUG    │
-                  └──────┬──────┘
-                         ↓
-                  ┌─────────────┐
-                  │   OPTIMIZE  │
-                  └──────┬──────┘
-                         ↓
-                  ┌─────────────┐
-                  │    SHIP     │
-                  └─────────────┘
-```
-
-### My engineering priorities
-
-`⚡ Performance` · `🧩 Maintainability` · `🎨 UX` · `🔐 Reliability` · `📱 Responsiveness`
-
----
-
-# 🧰 `TECH STACK`
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
-</p>
-
-### Backend & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vercel" />
-</p>
-
-> I prefer understanding the fundamentals behind a tool instead of collecting technologies for a résumé.
-
----
-
-# 🚀 `SELECTED BUILDS`
-
-## 🧩 Project Codex
-
-**Modern Web Application**
-
-A web application focused on a responsive interface, real-time functionality and a modern developer-oriented experience.
-
-**Stack**
-
-`React` · `Firebase`
-
-**Engineering Focus**
-
-* ⚡ Real-time application behaviour
-* 🎨 Responsive interface
-* 🔐 Authentication
-* 🧩 Component-based architecture
-
-[View Project →](https://github.com/darshan572)
-
----
-
-## 🌐 Portfolio System
-
-**Interactive Developer Portfolio**
-
-A personal developer experience designed around interactive presentation, modern motion and technical storytelling.
-
-**Engineering Focus**
-
-* 🎨 Interactive UI
-* ⚡ Modern animations
-* 📱 Responsive layouts
-* 🧠 Developer-focused UX
-
-[Explore GitHub →](https://github.com/darshan572)
-
----
-
-# 🧪 `THE BUILD LAB`
-
-> Not every experiment needs to become a product.
-
-Some things are built simply because the question is interesting.
-
-```text
-┌──────────────────────────────────────────────┐
-│                  BUILD LAB                   │
-├──────────────────────────────────────────────┤
-│                                              │
-│  ◇ UI Experiments                            │
-│  ◇ Automation                                │
-│  ◇ Developer Utilities                       │
-│  ◇ Web Experiments                           │
-│  ◇ Performance Experiments                   │
-│  ◇ Random Engineering Problems               │
-│                                              │
-│             curiosity → prototype             │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
----
-
-# 📓 `BUILD LOG`
-
-### How I approach a new project
-
-**01 — Problem**
-
-> What problem am I actually solving?
-
-**02 — Constraints**
-
-> What can go wrong?
-
-**03 — Architecture**
-
-> What is the simplest system that can work?
-
-**04 — Prototype**
-
-> Build the smallest useful version.
-
-**05 — Break It**
-
-> Find the weaknesses.
-
-**06 — Improve It**
-
-> Performance. UX. Reliability. Security.
-
-**07 — Ship It**
-
-> A finished imperfect product is more valuable than an unfinished perfect idea.
-
----
-
-# 🧠 `ENGINEERING PRINCIPLES`
-
-```text
-01  Understand before abstracting.
-
-02  Simple systems are easier to debug.
-
-03  UX is part of engineering.
-
-04  Performance is a feature.
-
-05  Security is not an afterthought.
-
-06  If you can't explain it, you probably don't understand it.
-
-07  Build more than you consume.
-
-08  Ship → observe → improve.
-```
-
----
-
-# 📊 `GITHUB TELEMETRY`
-
+<br/>
+`#` system.status
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=darshan572&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan572&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-
+STATUS	STATE
+🟢 Learning	JavaScript · TypeScript · Modern React patterns
+🟡 Building	Full-stack products with real users (not tutorials)
+🎨 Designing	Interactive, dark, terminal-inspired developer experiences
+🔵 Exploring	AI/ML, Cybersecurity, IoT-based systems
+🤝 Involved in	Community building, mentorship, technical content
+🎯 2026 Goal	Become a stronger product-minded engineer
 </div>
-
----
-
-# 📈 `ACTIVITY`
-
+<br/>
+`#` engineering.os
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan572&theme=github-compact&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-# 🐍 `CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/darshan572/darshan572/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-# 🎯 `2026 // MISSION`
-
-```text
-[01] ███████████████░░░  Deepen JavaScript
-[02] █████████████░░░░░  Master React / Next.js
-[03] ████████████░░░░░░  Strengthen Backend
-[04] ███████████░░░░░░░  Improve UI/UX
-[05] █████████░░░░░░░░░  Explore WebGL / Three.js
-[06] ████████░░░░░░░░░░  Contribute to Open Source
-[07] ███████████████░░░  Build real products
 ```
-
----
-
-# 🔭 `CURRENTLY EXPLORING`
-
-<table>
+┌───────────────────────────────┐
+│            IDEA                │
+└────────────────┬───────────────┘
+                 ▼
+┌───────────────────────────────┐
+│          RESEARCH               │
+└────────────────┬───────────────┘
+                 ▼
+┌───────────────────────────────┐
+│         ARCHITECT               │
+└────────────────┬───────────────┘
+                 ▼
+┌───────────────────────────────┐
+│           BUILD                 │
+└────────────────┬───────────────┘
+                 ▼
+┌───────────────────────────────┐
+│           BREAK                 │
+└────────────────┬───────────────┘
+                 ▼
+┌───────────────────────────────┐
+│           DEBUG                 │
+└────────────────┬───────────────┘
+                 ▼
+┌───────────────────────────────┐
+│          OPTIMIZE                │
+└────────────────┬───────────────┘
+                 ▼
+┌───────────────────────────────┐
+│            SHIP                 │
+└───────────────────────────────┘
+```
+Priorities → `Performance` `Maintainability` `UX` `Reliability` `Responsiveness`
+</div>
+<br/>
+`#` tech.stack
+<div align="center">
+Languages
+![Skills](https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css&theme=dark)
+Frontend
+![Skills](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma&theme=dark)
+Backend & Data
+![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma&theme=dark)
+Tools & Infra
+![Skills](https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode,postman&theme=dark)
+Currently Exploring
+![Skills](https://skillicons.dev/icons?i=tensorflow,arduino,kalilinux,gcp&theme=dark)
+</div>
+> I'd rather understand the fundamentals behind a tool than collect technologies for a résumé.
+<br/>
+`#` selected.builds
+<details open>
+<summary><b>🧱 SmartMess 2.0 — Hostel Mess Booking & Wastage Prevention System</b></summary>
+<br/>
+A full-stack product tackling a problem I live with every day in the hostel: food wastage and chaotic mess management.
+Stack: `React` `Node.js` `Express` `PostgreSQL` `JWT Auth`
+Engineering focus
+QR-based entry & food booking flow
+Admin dashboard for mess staff
+Rate limiting & concurrency-safe booking logic
+Role-based authorization
+Mobile release pipeline (React Native / Expo)
+</details>
+<details>
+<summary><b>♻️ BinSense / SmartFlow — IoT Smart Waste Management</b></summary>
+<br/>
+Software meets hardware: a sensor-driven system for real-time waste monitoring.
+Stack: `Arduino Uno` `ESP32` `Ultrasonic Sensors` `HX711` `MQ135` `Solar-powered design`
+Engineering focus
+Real-time sensor data monitoring
+Environmental gas + weight sensing
+Low-power, solar-assisted hardware design
+</details>
+<details>
+<summary><b>🖥️ Developer Portfolio — Terminal/IDE-Aesthetic Personal Site</b></summary>
+<br/>
+A bold, dark, command-line-inspired portfolio built to feel like a developer environment, not a template.
+Stack: `Next.js` `Tailwind CSS` `Framer Motion`
+Engineering focus
+Command palette navigation (⌘K style)
+In-browser terminal emulator
+Live GitHub / WakaTime widgets
+Git-log-style timeline of my journey
+</details>
+<details>
+<summary><b>📰 News Automator V2 — Automated Content Classification Pipeline</b></summary>
+<br/>
+Stack: `Python` `Automation` `Web Scraping`
+Engineering focus
+URL fetching + screenshot capture
+Content classification pipeline
+End-to-end automation, zero manual triage
+</details>
+<details>
+<summary><b>🏢 College Complaint & Maintenance Tracker</b></summary>
+<br/>
+Stack: `HTML` `CSS` `JavaScript`
+Digitizing a real institutional problem — complaint logging & maintenance tracking for campus infrastructure.
+</details>
+<br/>
+`#` build.lab
+```
+┌─ BUILD LAB ─────────────────────────────┐
+│                                           │
+│   ▸ UI Experiments                       │
+│   ▸ Automation Scripts                   │
+│   ▸ Developer Utilities                  │
+│   ▸ Web Experiments                      │
+│   ▸ Performance Experiments              │
+│   ▸ Random Engineering Problems          │
+│                                           │
+│   status: curiosity → prototype          │
+│                                           │
+└───────────────────────────────────────────┘
+```
+Not every experiment needs to become a product. Some things are built simply because the question is interesting.
+<br/>
+`#` engineering.principles
+```yaml
+01: Understand before abstracting.
+02: Simple systems are easier to debug.
+03: UX is part of engineering — not an afterthought.
+04: Performance is a feature, not a nice-to-have.
+05: Security isn't optional, it's foundational.
+06: If you can't explain it, you probably don't understand it.
+07: Build more than you consume.
+08: Ship > observe > improve.
+```
+<br/>
+`#` github.telemetry
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=darshan072&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=00FF9D&icon_color=00FF9D&text_color=C9C9C9&ring_color=00FF9D" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan072&theme=dark&hide_border=true&background=0A0A0A&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan072&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=00FF9D&text_color=C9C9C9&langs_count=8" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=darshan072&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+</div>
+<br/>
+`#` contribution.graph
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darshan072/darshan072/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/darshan072/darshan072/output/github-contribution-grid-snake-dark.svg">
+</picture>
+<sub>Animated snake generated via GitHub Action — see <code>SETUP.md</code> to activate it on your repo.</sub>
+</div>
+<br/>
+`#` 2026.mission
+```diff
++ [==========          ] Master React / Next.js at a production level
++ [========            ] Go deeper into backend architecture & system design
++ [======              ] Ship SmartMess 2.0 to real hostel users
++ [=====               ] Contribute to open source
++ [====                ] Explore AI/ML & applied cybersecurity
++ [===                 ] Build in public — document the process
+```
+<br/>
+`#` currently.exploring
+<table align="center">
 <tr>
-<td width="50%">
-
-### 🧠 Engineering
-
-* Advanced JavaScript
-* TypeScript
-* React architecture
-* Backend systems
-* Performance
-
+<td valign="top" width="50%">
+⚙️ Engineering
+Advanced JavaScript & TypeScript
+React architecture patterns
+Backend systems & API design
+Performance optimization
 </td>
-
-<td width="50%">
-
-### 🎨 Creative Engineering
-
-* Motion UI
-* Interactive interfaces
-* Design systems
-* WebGL
-* Developer experiences
-
+<td valign="top" width="50%">
+🎨 Creative Engineering
+Motion UI (Framer Motion)
+Interactive systems
+Design systems
+Developer experience (DX)
 </td>
 </tr>
 </table>
-
----
-
-# 💻 `CODE PHILOSOPHY`
-
+<br/>
+`#` code.philosophy
 ```python
-while learning:
+learning = ["JavaScript", "React", "System Design"]
 
-    idea = capture()
+def prototype(idea):
+    while idea.breaks:
+        debug(idea)
+        idea = improve(idea)
+    return idea
 
-    prototype = build(idea)
-
-    if prototype.breaks:
-        debug()
-
-    improve()
-
-    if it.solves_a_real_problem:
+def solve_real_problem(problem):
+    try:
+        prototype(problem)
+    except NotGoodEnough:
+        iterate()
+    finally:
         ship()
 
-    learn()
+# I don't chase frameworks. I chase problems worth solving.
 ```
-
-### `BUILD → BREAK → DEBUG → REBUILD → SHIP`
-
----
-
-# 🌎 `CONNECT`
-
+<br/>
 <div align="center">
-
-<a href="https://github.com/darshan572">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel"/>
-</a>
-
-</div>
-
----
-
-# 🤝 `OPEN TO`
-
-```text
-✓ Interesting collaborations
-✓ Open-source projects
-✓ Hackathons
-✓ Technical communities
-✓ Product ideas
-✓ Developer tools
-✓ Challenging engineering problems
-```
-
----
-
-<div align="center">
-
-## `IF IT CAN BE BUILT, IT CAN BE IMPROVED.`
-
-<br>
-
-**⭐ Found something useful? Star a repository.**
-
-<br>
-
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*
->
-> — Harold Abelson & Gerald Jay Sussman
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=100&section=footer" width="100%"/>
-
-**© 2026 Darshan Kumar · Engineering with curiosity ☕**
-
+`#` connect
+![Instagram](https://img.shields.io/badge/Instagram-Hostel%20Life%20Unfiltered-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0A)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A)
+![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF9D?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0A0A0A)
+![Gmail](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A)
+Open to: interesting collaborations · open-source contributions · technical communities · product ideas · developer roles
+<br/>
+`if (this.helped_you) { star.this.repo(); }`
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,100:0A0A0A&height=100&section=footer" width="100%"/>
+© 2026 Darshan Kumar — Engineering with curiosity 🚀
 </div>
