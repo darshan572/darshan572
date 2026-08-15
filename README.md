@@ -1,193 +1,260 @@
-
-<!-- ========================================================= -->
-<!--                    DARSHAN KUMAR                          -->
-<!--                 GitHub Profile README                     -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-# 👋 Hey Universe, I'm **Darshan!**
+# 👋 Hey Universe, I'm **Darshan**
 
 ### `Full-Stack Developer` · `UI/UX Enthusiast` · `Builder`
 
-<p>
-  <a href="https://github.com/darshan572">
-    <img src="https://img.shields.io/github/followers/darshan572?label=Followers&style=for-the-badge&logo=github&color=181717" />
-  </a>
-  <a href="https://github.com/darshan572?tab=repositories">
-    <img src="https://img.shields.io/github/stars/darshan572?affiliations=OWNER&style=for-the-badge&logo=github&color=yellow" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=darshan572&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
-</p>
+**I turn ideas into interfaces, interfaces into systems, and systems into products.**
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=120&section=header&text=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20REBUILD&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-darshan572-181717?style=for-the-badge\&logo=github)](https://github.com/darshan572)
+[![Profile Views](https://komarev.com/ghpvc/?username=darshan572\&style=for-the-badge\&color=238636\&label=PROFILE+VIEWS)](https://github.com/darshan572)
+
+<br>
+
+### `BUILD • BREAK • DEBUG • REBUILD • SHIP`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=120&section=header&text=ENGINEER%20THE%20IMPOSSIBLE&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
 
 ---
 
-## 🧬 `whoami`
+# 🧬 `whoami`
 
 ```js
 const darshan = {
-    name: "Darshan Kumar",
-    username: "darshan572",
+    identity: "Developer & Builder",
 
-    role: [
-        "Full-Stack Developer",
-        "UI/UX Enthusiast",
-        "Problem Solver"
+    focus: [
+        "Full-Stack Web Development",
+        "Interactive UI/UX",
+        "Developer Experiences"
     ],
 
-    currentlyBuilding: [
-        "Modern Web Applications",
-        "Interactive Developer Experiences",
-        "Full-Stack Projects"
-    ],
+    mindset: "Build first. Understand deeply. Ship better.",
 
-    currentlyLearning: [
-        "Next.js",
-        "TypeScript",
-        "Three.js",
-        "Advanced JavaScript"
-    ],
+    currently: "Turning ideas into real products",
 
     interests: [
-        "Web Development",
+        "Web Engineering",
+        "Product Development",
         "UI/UX",
-        "Performance",
-        "Open Source",
-        "Developer Experience"
-    ],
-
-    philosophy:
-        "Don't just write code. Build experiences."
+        "Automation",
+        "Open Source"
+    ]
 };
-````
-
-> **I like turning ideas into interfaces, interfaces into products, and products into experiences.**
-
----
-
-# ⚡ What I'm Up To
-
-| 🚧 Building            | 📚 Learning         | 🔭 Exploring            |
-| :--------------------- | :------------------ | :---------------------- |
-| Full-Stack Web Apps    | Next.js             | Three.js                |
-| Interactive Interfaces | TypeScript          | Advanced Web Animations |
-| Developer Tools        | Advanced JavaScript | Open Source             |
-| Personal Projects      | Web Performance     | Creative UI/UX          |
-
----
-
-# 🧠 My Tech Arsenal
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,framer" />
-</p>
-
-**React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS · Framer Motion**
-
-### ⚙️ Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb" />
-</p>
-
-**Node.js · Express · PostgreSQL · MongoDB**
-
-### 🛠️ Tools & Workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,npm,vercel" />
-</p>
-
-**VS Code · Git · GitHub · Figma · npm · Vercel**
-
----
-
-# 🧩 Developer Mindset
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                         MY WORKFLOW                          │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│       IDEA                                                   │
-│        │                                                     │
-│        ▼                                                     │
-│     RESEARCH ────────► DESIGN                               │
-│        │                  │                                  │
-│        ▼                  ▼                                  │
-│     ARCHITECTURE ───► BUILD                                 │
-│                           │                                  │
-│                           ▼                                  │
-│                        TEST                                  │
-│                           │                                  │
-│                           ▼                                  │
-│                       OPTIMIZE                               │
-│                           │                                  │
-│                           ▼                                  │
-│                         SHIP                                 │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
 ```
 
-### I care about:
-
-* ⚡ Performance
-* 🎨 Clean interfaces
-* 🧩 Maintainable architecture
-* 📱 Responsive experiences
-* 🔐 Sensible security
-* 🧠 Developer experience
-* 🚀 Shipping useful products
+> **I don't want to just learn technologies.
+> I want to use them to build things people actually use.**
 
 ---
 
-# 🚀 Featured Projects
+# ⚡ `SYSTEM STATUS`
 
-<div align="center">
-
-### 🧩 Project Codex
-
-**Modern web application built with React & Firebase**
-
-A project focused on creating a modern, responsive and interactive web experience.
-
-<a href="https://github.com/darshan572">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</a>
-<a href="https://github.com/darshan572">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</a>
+| STATUS               | CURRENT STATE                             |
+| :------------------- | :---------------------------------------- |
+| 🧠 **Learning**      | JavaScript · TypeScript · Modern React    |
+| 🏗️ **Building**     | Full-Stack Applications                   |
+| 🎨 **Designing**     | Interactive Developer Experiences         |
+| 🔬 **Exploring**     | Web Performance · Advanced UI             |
+| 🌎 **Interested In** | Open Source · Collaboration · Hackathons  |
+| 🚀 **Goal**          | Become a stronger product-minded engineer |
 
 ---
 
-### 🌐 Portfolio Website
+# 🛰️ `ENGINEERING OS`
+
+My development process is simple:
+
+```text
+                  ┌─────────────┐
+                  │    IDEA     │
+                  └──────┬──────┘
+                         ↓
+                  ┌─────────────┐
+                  │   RESEARCH  │
+                  └──────┬──────┘
+                         ↓
+                  ┌─────────────┐
+                  │  ARCHITECT  │
+                  └──────┬──────┘
+                         ↓
+                  ┌─────────────┐
+                  │    BUILD    │
+                  └──────┬──────┘
+                         ↓
+                  ┌─────────────┐
+                  │    BREAK    │
+                  └──────┬──────┘
+                         ↓
+                  ┌─────────────┐
+                  │    DEBUG    │
+                  └──────┬──────┘
+                         ↓
+                  ┌─────────────┐
+                  │   OPTIMIZE  │
+                  └──────┬──────┘
+                         ↓
+                  ┌─────────────┐
+                  │    SHIP     │
+                  └─────────────┘
+```
+
+### My engineering priorities
+
+`⚡ Performance` · `🧩 Maintainability` · `🎨 UX` · `🔐 Reliability` · `📱 Responsiveness`
+
+---
+
+# 🧰 `TECH STACK`
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
+</p>
+
+### Backend & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vercel" />
+</p>
+
+> I prefer understanding the fundamentals behind a tool instead of collecting technologies for a résumé.
+
+---
+
+# 🚀 `SELECTED BUILDS`
+
+## 🧩 Project Codex
+
+**Modern Web Application**
+
+A web application focused on a responsive interface, real-time functionality and a modern developer-oriented experience.
+
+**Stack**
+
+`React` · `Firebase`
+
+**Engineering Focus**
+
+* ⚡ Real-time application behaviour
+* 🎨 Responsive interface
+* 🔐 Authentication
+* 🧩 Component-based architecture
+
+[View Project →](https://github.com/darshan572)
+
+---
+
+## 🌐 Portfolio System
 
 **Interactive Developer Portfolio**
 
-Designed around a modern developer identity with interactive motion, project presentation and a dark developer aesthetic.
+A personal developer experience designed around interactive presentation, modern motion and technical storytelling.
 
-<a href="https://github.com/darshan572">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</a>
-<a href="https://github.com/darshan572">
-<img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
-</a>
+**Engineering Focus**
 
-</div>
+* 🎨 Interactive UI
+* ⚡ Modern animations
+* 📱 Responsive layouts
+* 🧠 Developer-focused UX
 
-> 💡 **More projects are continuously being built, improved and experimented with.**
+[Explore GitHub →](https://github.com/darshan572)
 
 ---
 
-# 📊 GitHub Intelligence
+# 🧪 `THE BUILD LAB`
+
+> Not every experiment needs to become a product.
+
+Some things are built simply because the question is interesting.
+
+```text
+┌──────────────────────────────────────────────┐
+│                  BUILD LAB                   │
+├──────────────────────────────────────────────┤
+│                                              │
+│  ◇ UI Experiments                            │
+│  ◇ Automation                                │
+│  ◇ Developer Utilities                       │
+│  ◇ Web Experiments                           │
+│  ◇ Performance Experiments                   │
+│  ◇ Random Engineering Problems               │
+│                                              │
+│             curiosity → prototype             │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# 📓 `BUILD LOG`
+
+### How I approach a new project
+
+**01 — Problem**
+
+> What problem am I actually solving?
+
+**02 — Constraints**
+
+> What can go wrong?
+
+**03 — Architecture**
+
+> What is the simplest system that can work?
+
+**04 — Prototype**
+
+> Build the smallest useful version.
+
+**05 — Break It**
+
+> Find the weaknesses.
+
+**06 — Improve It**
+
+> Performance. UX. Reliability. Security.
+
+**07 — Ship It**
+
+> A finished imperfect product is more valuable than an unfinished perfect idea.
+
+---
+
+# 🧠 `ENGINEERING PRINCIPLES`
+
+```text
+01  Understand before abstracting.
+
+02  Simple systems are easier to debug.
+
+03  UX is part of engineering.
+
+04  Performance is a feature.
+
+05  Security is not an afterthought.
+
+06  If you can't explain it, you probably don't understand it.
+
+07  Build more than you consume.
+
+08  Ship → observe → improve.
+```
+
+---
+
+# 📊 `GITHUB TELEMETRY`
 
 <div align="center">
 
@@ -199,17 +266,7 @@ Designed around a modern developer identity with interactive motion, project pre
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=darshan572&theme=github-dark-blue&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
+# 📈 `ACTIVITY`
 
 <div align="center">
 
@@ -219,143 +276,138 @@ Designed around a modern developer identity with interactive motion, project pre
 
 ---
 
-# 🐍 The Contribution Snake
+# 🐍 `CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/darshan572/darshan572/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/darshan572/darshan572/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
-> If the snake isn't showing, the GitHub Action needs to be configured in the profile repository.
-
 ---
 
-# 🏗️ Currently Building
+# 🎯 `2026 // MISSION`
 
 ```text
-╭────────────────────────────────────────────────────────────╮
-│                     CURRENT LAB                            │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  ▸ Full-Stack Applications                                │
-│  ▸ React / Next.js Experiments                            │
-│  ▸ Interactive UI Systems                                 │
-│  ▸ Developer Portfolio                                    │
-│  ▸ Performance-focused Web Experiences                    │
-│  ▸ New Ideas → Prototypes → Production                    │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+[01] ███████████████░░░  Deepen JavaScript
+[02] █████████████░░░░░  Master React / Next.js
+[03] ████████████░░░░░░  Strengthen Backend
+[04] ███████████░░░░░░░  Improve UI/UX
+[05] █████████░░░░░░░░░  Explore WebGL / Three.js
+[06] ████████░░░░░░░░░░  Contribute to Open Source
+[07] ███████████████░░░  Build real products
 ```
 
 ---
 
-# 🎯 2026 Focus
+# 🔭 `CURRENTLY EXPLORING`
 
-```text
-01 ── Deepen JavaScript & TypeScript
-02 ── Build stronger React / Next.js applications
-03 ── Improve backend architecture
-04 ── Master modern UI/UX patterns
-05 ── Explore WebGL / Three.js
-06 ── Contribute to Open Source
-07 ── Build products instead of tutorials
-```
+<table>
+<tr>
+<td width="50%">
 
----
+### 🧠 Engineering
 
-# 🧪 Experiments & Side Quests
+* Advanced JavaScript
+* TypeScript
+* React architecture
+* Backend systems
+* Performance
 
-Not everything needs to become a startup.
+</td>
 
-Sometimes I build things simply because:
+<td width="50%">
 
-> **"What if I tried this?"**
+### 🎨 Creative Engineering
 
-Current playground:
+* Motion UI
+* Interactive interfaces
+* Design systems
+* WebGL
+* Developer experiences
 
-```text
-╭────────────────────────────────────╮
-│  🧠 Ideas                          │
-│  ├── UI experiments                │
-│  ├── Developer utilities           │
-│  ├── Automation                    │
-│  ├── Web experiments               │
-│  └── Random engineering problems   │
-╰────────────────────────────────────╯
-```
+</td>
+</tr>
+</table>
 
 ---
 
-# 💻 Code Philosophy
+# 💻 `CODE PHILOSOPHY`
 
 ```python
-while True:
+while learning:
 
-    idea = get_idea()
+    idea = capture()
 
-    if idea:
-        prototype(idea)
+    prototype = build(idea)
 
-    if prototype_works():
-        improve(idea)
+    if prototype.breaks:
+        debug()
 
-    if it_solves_a_real_problem():
+    improve()
+
+    if it.solves_a_real_problem:
         ship()
 
     learn()
 ```
 
-### My rule:
-
-**Build → Break → Debug → Learn → Rebuild → Ship.**
+### `BUILD → BREAK → DEBUG → REBUILD → SHIP`
 
 ---
 
-# 🌎 Connect With Me
+# 🌎 `CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/darshan572">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.figma.com/">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel"/>
 </a>
 
 </div>
 
 ---
 
-# 💬 Let's Build Something
+# 🤝 `OPEN TO`
 
-I'm always interested in:
-
-**Interesting ideas · Open Source · Collaborations · Hackathons · UI/UX · Developer Tools**
-
-If you're building something interesting, let's talk.
+```text
+✓ Interesting collaborations
+✓ Open-source projects
+✓ Hackathons
+✓ Technical communities
+✓ Product ideas
+✓ Developer tools
+✓ Challenging engineering problems
+```
 
 ---
 
 <div align="center">
 
-### ⭐ If you find something interesting here, consider giving it a star.
+## `IF IT CAN BE BUILT, IT CAN BE IMPROVED.`
 
-<br/>
+<br>
 
-> **"A language that doesn't affect the way you think about programming is not worth knowing."**
+**⭐ Found something useful? Star a repository.**
+
+<br>
+
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*
 >
-> — Alan Perlis
+> — Harold Abelson & Gerald Jay Sussman
 
-<br/>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=100&section=footer" width="100%"/>
 
-**© 2026 Darshan Kumar · Built with curiosity & caffeine ☕**
+**© 2026 Darshan Kumar · Engineering with curiosity ☕**
 
 </div>
