@@ -93,18 +93,40 @@ const darshan = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:00FF9D&height=55&section=header&text=SELECTED.BUILDS&fontSize=24&fontColor=00FF9D&fontAlign=6&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:00FF9D&height=55&section=header&text=FEATURED.BUILDS&fontSize=24&fontColor=00FF9D&fontAlign=6&fontAlignY=68" width="100%"/>
+
+<div align="center">
+
+**Four builds across four different disciplines — hardware, product, design, and commerce.**
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧱 SmartMess 2.0
-**Hostel Mess Booking & Wastage Prevention System**
+### 01 · ♻️ BinSense — `Kachra`
+*Engineering the physical world*
+
+`Arduino Uno` `ESP32` `Ultrasonic` `HX711` `MQ135`
+
+An IoT smart waste management system — sensor-driven, solar-assisted, and built where hardware meets software.
+
+- Real-time fill-level & gas monitoring
+- Low-power, solar-powered design
+- Sensor data pipeline → dashboard
+
+[![Repo](https://img.shields.io/badge/View%20Repository-Kachra-00FF9D?style=for-the-badge&logo=github&logoColor=black&labelColor=0A0A0A)](https://github.com/darshan572/Kachra)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · 🍱 SmartMess
+*Solving a real campus problem*
 
 `React` `Node.js` `Express` `PostgreSQL` `JWT`
 
-A full-stack product tackling a problem I live with every day in the hostel — food wastage and chaotic mess management.
+Hostel mess booking & food-wastage prevention — product thinking taken all the way to deployment.
 
 - QR-based entry & food booking flow
 - Admin dashboard for mess staff
@@ -112,51 +134,48 @@ A full-stack product tackling a problem I live with every day in the hostel — 
 - Role-based authorization
 
 </td>
-<td width="50%" valign="top">
-
-### ♻️ BinSense / SmartFlow
-**IoT Smart Waste Management**
-
-`Arduino Uno` `ESP32` `Ultrasonic` `HX711` `MQ135`
-
-Software meets hardware — a sensor-driven system for real-time waste monitoring.
-
-- Real-time sensor data monitoring
-- Environmental gas + weight sensing
-- Low-power, solar-assisted design
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Developer Portfolio
-**Terminal/IDE-Aesthetic Personal Site**
+### 03 · 🎨 Spectra
+*Code meets visual experience*
 
-`Next.js` `Tailwind CSS` `Framer Motion`
+`React` `UI/UX` `Motion Design`
 
-A bold, dark, command-line-inspired portfolio built to feel like a developer environment, not a template.
+The creative-engineering showcase — proof that I care as much about how software feels as how it functions.
 
-- Command palette navigation (⌘K)
-- In-browser terminal emulator
-- Live GitHub / WakaTime widgets
-- Git-log-style journey timeline
+- Interactive, motion-driven UI
+- Design-system-first build
+- Focused on experience over just function
+
+[![Repo](https://img.shields.io/badge/View%20Repository-Spectra-00FF9D?style=for-the-badge&logo=github&logoColor=black&labelColor=0A0A0A)](https://github.com/darshan572/Spectra)
 
 </td>
 <td width="50%" valign="top">
 
-### 📰 News Automator V2
-**Automated Content Classification Pipeline**
+### 04 · 🛒 Narikart Commerce
+*Building a complete digital product*
 
-`Python` `Automation` `Web Scraping`
+`Full-Stack` `E-Commerce` `Auth` `Data Management`
 
-- URL fetching + screenshot capture
-- Content classification pipeline
-- End-to-end automation, zero manual triage
+A commercial-grade e-commerce platform — product systems, checkout flow, and business-oriented architecture.
+
+- End-to-end shopping & checkout flow
+- Authentication & user accounts
+- Business-oriented application design
+
+[![Repo](https://img.shields.io/badge/View%20Repository-Narikart%20Commerce-00FF9D?style=for-the-badge&logo=github&logoColor=black&labelColor=0A0A0A)](https://github.com/darshan572/Narikart_Commerce)
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<sub>Everything else — prototypes, one-off experiments, learning projects — lives in the <b>Build Lab</b> below rather than competing for space up here.</sub>
+
+</div>
 
 <br/>
 
@@ -219,6 +238,7 @@ A bold, dark, command-line-inspired portfolio built to feel like a developer env
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A)]([https://linkedin.com/](https://www.instagram.com/darshanbr_33))
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF9D?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0A0A0A)](https://your-portfolio-link.com)
 [![Gmail](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A)](mailto:youremail@example.com)
+
 
 **Open to:** interesting collaborations · open-source contributions · technical communities · product ideas · developer roles
 
