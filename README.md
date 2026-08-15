@@ -1,223 +1,361 @@
-# 🚀 Hey Universe, I'm Darshan! 
+
+<!-- ========================================================= -->
+<!--                    DARSHAN KUMAR                          -->
+<!--                 GitHub Profile README                     -->
+<!-- ========================================================= -->
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+New+Tech+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+# 👋 Hey Universe, I'm **Darshan!**
+
+### `Full-Stack Developer` · `UI/UX Enthusiast` · `Builder`
+
+<p>
+  <a href="https://github.com/darshan572">
+    <img src="https://img.shields.io/github/followers/darshan572?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  </a>
+  <a href="https://github.com/darshan572?tab=repositories">
+    <img src="https://img.shields.io/github/stars/darshan572?affiliations=OWNER&style=for-the-badge&logo=github&color=yellow" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=darshan572&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=120&section=header&text=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20REBUILD&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+---
 
-### 🌟 About Me
+## 🧬 `whoami`
 
-```javascript
+```js
 const darshan = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "UI/UX"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "FastAPI"],
-            databases: ["MongoDB", "PostgreSQL", "Firebase"]
-        },
-        devOps: ["Docker", "AWS", "Vercel", "Netlify"],
-        tools: ["VS Code", "Git", "Figma", "Postman"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug code faster than I make coffee ☕"
+    name: "Darshan Kumar",
+    username: "darshan572",
+
+    role: [
+        "Full-Stack Developer",
+        "UI/UX Enthusiast",
+        "Problem Solver"
+    ],
+
+    currentlyBuilding: [
+        "Modern Web Applications",
+        "Interactive Developer Experiences",
+        "Full-Stack Projects"
+    ],
+
+    currentlyLearning: [
+        "Next.js",
+        "TypeScript",
+        "Three.js",
+        "Advanced JavaScript"
+    ],
+
+    interests: [
+        "Web Development",
+        "UI/UX",
+        "Performance",
+        "Open Source",
+        "Developer Experience"
+    ],
+
+    philosophy:
+        "Don't just write code. Build experiences."
 };
+````
+
+> **I like turning ideas into interfaces, interfaces into products, and products into experiences.**
+
+---
+
+# ⚡ What I'm Up To
+
+| 🚧 Building            | 📚 Learning         | 🔭 Exploring            |
+| :--------------------- | :------------------ | :---------------------- |
+| Full-Stack Web Apps    | Next.js             | Three.js                |
+| Interactive Interfaces | TypeScript          | Advanced Web Animations |
+| Developer Tools        | Advanced JavaScript | Open Source             |
+| Personal Projects      | Web Performance     | Creative UI/UX          |
+
+---
+
+# 🧠 My Tech Arsenal
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,framer" />
+</p>
+
+**React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS · Framer Motion**
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb" />
+</p>
+
+**Node.js · Express · PostgreSQL · MongoDB**
+
+### 🛠️ Tools & Workflow
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,npm,vercel" />
+</p>
+
+**VS Code · Git · GitHub · Figma · npm · Vercel**
+
+---
+
+# 🧩 Developer Mindset
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                         MY WORKFLOW                          │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│       IDEA                                                   │
+│        │                                                     │
+│        ▼                                                     │
+│     RESEARCH ────────► DESIGN                               │
+│        │                  │                                  │
+│        ▼                  ▼                                  │
+│     ARCHITECTURE ───► BUILD                                 │
+│                           │                                  │
+│                           ▼                                  │
+│                        TEST                                  │
+│                           │                                  │
+│                           ▼                                  │
+│                       OPTIMIZE                               │
+│                           │                                  │
+│                           ▼                                  │
+│                         SHIP                                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-<br clear="both">
+### I care about:
+
+* ⚡ Performance
+* 🎨 Clean interfaces
+* 🧩 Maintainable architecture
+* 📱 Responsive experiences
+* 🔐 Sensible security
+* 🧠 Developer experience
+* 🚀 Shipping useful products
 
 ---
 
-## 🎯 What I'm Up To
+# 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td>🔭 <b>Currently Working On</b></td>
-    <td>Full-stack web applications with React & Node.js</td>
-  </tr>
-  <tr>
-    <td>🌱 <b>Learning</b></td>
-    <td>Next.js 14, Three.js, WebGL, and Advanced TypeScript</td>
-  </tr>
-  <tr>
-    <td>👯 <b>Looking to Collaborate</b></td>
-    <td>Open source projects, React libraries, and cool web experiences</td>
-  </tr>
-  <tr>
-    <td>🤔 <b>Ask Me About</b></td>
-    <td>Html, CSS, React, JavaScript, Web Performance, and UI/UX Design</td>
-  </tr>
-</table>
+<div align="center">
+
+### 🧩 Project Codex
+
+**Modern web application built with React & Firebase**
+
+A project focused on creating a modern, responsive and interactive web experience.
+
+<a href="https://github.com/darshan572">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
+<a href="https://github.com/darshan572">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</a>
 
 ---
 
-## 🛠️ Tech Arsenal
+### 🌐 Portfolio Website
 
-<div align="center">
-
-### Frontend Magic ✨
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### Backend Power ⚡
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Platforms 🔧
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darshan572&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan572&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan572&theme=tokyonight" alt="Streak Stats"/>
-</div>
-
----
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 [Project Codex](https://darshan572.github.io/Codex_Project/Codex/index.html)
-**Modern Web App with React & Firebase**
-- ⚡ Real-time data synchronization
-- 🎨 Beautiful UI with Tailwind CSS
-- 📱 Fully responsive design
-- 🔐 Secure authentication
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🌟 [Portfolio Website](https://darshan572.github.io/Portfolio_F)
 **Interactive Developer Portfolio**
-- ✨ Smooth animations with Framer Motion
-- 🎯 Clean, modern design
-- 📊 Dynamic project showcase
-- 🌙 Dark/Light theme toggle
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+Designed around a modern developer identity with interactive motion, project presentation and a dark developer aesthetic.
 
-</td>
-</tr>
-</table>
+<a href="https://github.com/darshan572">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
+<a href="https://github.com/darshan572">
+<img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
+</a>
+
+</div>
+
+> 💡 **More projects are continuously being built, improved and experimented with.**
+
+---
+
+# 📊 GitHub Intelligence
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=darshan572&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan572&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darshan572&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</div>
-
----
-
-## 🌐 Connect With Me
+# 🔥 Contribution Streak
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://darshan572.github.io/Portfolio_F)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-kumar-63ba23328)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Darshankanishq)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshankumar7639@gmail.com)
+<img src="https://streak-stats.demolab.com?user=darshan572&theme=github-dark-blue&hide_border=true" width="70%"/>
 
 </div>
 
 ---
 
-## 💡 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable React Applications with TypeScript](https://your-blog.com/react-typescript)
-- 🎨 [Modern CSS Techniques for Better UX](https://your-blog.com/modern-css)
-- ⚡ [Optimizing Web Performance: A Developer's Guide](https://your-blog.com/web-performance)
-- 🔥 [Firebase vs Supabase: Which Backend Should You Choose?](https://your-blog.com/firebase-vs-supabase)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-id&count=1" alt="Spotify recently played"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan572&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
+# 📈 Contribution Graph
 
 <div align="center">
 
-### 💭 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan572&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
+# 🐍 The Contribution Snake
+
 <div align="center">
 
-**⭐ Star my repositories if you find them interesting!**
+<img src="https://raw.githubusercontent.com/darshan572/darshan572/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=darshan572&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/darshan572?style=for-the-badge&color=blue)
+</div>
+
+> If the snake isn't showing, the GitHub Action needs to be configured in the profile repository.
+
+---
+
+# 🏗️ Currently Building
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                     CURRENT LAB                            │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  ▸ Full-Stack Applications                                │
+│  ▸ React / Next.js Experiments                            │
+│  ▸ Interactive UI Systems                                 │
+│  ▸ Developer Portfolio                                    │
+│  ▸ Performance-focused Web Experiences                    │
+│  ▸ New Ideas → Prototypes → Production                    │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+---
+
+# 🎯 2026 Focus
+
+```text
+01 ── Deepen JavaScript & TypeScript
+02 ── Build stronger React / Next.js applications
+03 ── Improve backend architecture
+04 ── Master modern UI/UX patterns
+05 ── Explore WebGL / Three.js
+06 ── Contribute to Open Source
+07 ── Build products instead of tutorials
+```
+
+---
+
+# 🧪 Experiments & Side Quests
+
+Not everything needs to become a startup.
+
+Sometimes I build things simply because:
+
+> **"What if I tried this?"**
+
+Current playground:
+
+```text
+╭────────────────────────────────────╮
+│  🧠 Ideas                          │
+│  ├── UI experiments                │
+│  ├── Developer utilities           │
+│  ├── Automation                    │
+│  ├── Web experiments               │
+│  └── Random engineering problems   │
+╰────────────────────────────────────╯
+```
+
+---
+
+# 💻 Code Philosophy
+
+```python
+while True:
+
+    idea = get_idea()
+
+    if idea:
+        prototype(idea)
+
+    if prototype_works():
+        improve(idea)
+
+    if it_solves_a_real_problem():
+        ship()
+
+    learn()
+```
+
+### My rule:
+
+**Build → Break → Debug → Learn → Rebuild → Ship.**
+
+---
+
+# 🌎 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/darshan572">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.figma.com/">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+# 💬 Let's Build Something
+
+I'm always interested in:
+
+**Interesting ideas · Open Source · Collaborations · Hackathons · UI/UX · Developer Tools**
+
+If you're building something interesting, let's talk.
 
 ---
 
 <div align="center">
-  
-### ⚡ Fun Fact
-*I can solve a Rubik's cube faster than I can explain why my CSS isn't working* 🧩
 
-**Thanks for stopping by! Let's connect and build something amazing together! 🚀**
+### ⭐ If you find something interesting here, consider giving it a star.
+
+<br/>
+
+> **"A language that doesn't affect the way you think about programming is not worth knowing."**
+>
+> — Alan Perlis
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=100&section=footer" width="100%"/>
+
+**© 2026 Darshan Kumar · Built with curiosity & caffeine ☕**
 
 </div>
