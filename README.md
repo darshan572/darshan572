@@ -80,3 +80,274 @@ const darshan = {
   philosophy:
     "Learn deeply. Build practically. Ship continuously."
 };
+
+I don't want to just learn technologies.
+I want to build things people actually use.
+
+> system.status
+<div align="center">
+STATUS	CURRENT STATE
+🟢 LEARNING	JavaScript · TypeScript · React · DSA
+🔵 BUILDING	Full-stack applications & developer tools
+🟣 EXPLORING	AI/ML · Cybersecurity · IoT · Cloud
+🎨 DESIGNING	UI/UX · Motion · Developer Experiences
+⚡ PRACTICING	Problem Solving · System Design
+🚀 COMMUNITY	Prahar · Technical Events · Mentorship
+</div>
+> engineering.philosophy
+<div align="center">
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│       DON'T JUST CONSUME TECHNOLOGY.                │
+│                                                      │
+│       UNDERSTAND IT.                                │
+│       BUILD WITH IT.                                │
+│       BREAK IT.                                     │
+│       FIX IT.                                       │
+│       SHIP IT.                                      │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+THINK → BUILD → BREAK → LEARN → SHIP
+</div>
+> currently.building
+const now = {
+  focus: "Becoming a stronger product-minded engineer",
+
+  building: [
+    "Full-stack web applications",
+    "Developer-focused tools",
+    "Real-world campus solutions"
+  ],
+
+  improving: [
+    "React",
+    "JavaScript",
+    "Backend Architecture",
+    "DSA"
+  ],
+
+  exploring: [
+    "Artificial Intelligence",
+    "Cybersecurity",
+    "IoT",
+    "Cloud Infrastructure"
+  ],
+
+  sideQuest:
+    "Building technical communities through Prahar"
+};
+> tech.stack
+<div align="center">
+LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css&theme=dark" alt="Languages" />
+
+<br><br>
+
+FRONTEND
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma&theme=dark" alt="Frontend" />
+
+<br><br>
+
+BACKEND & DATABASE
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma&theme=dark" alt="Backend and Database" />
+
+<br><br>
+
+TOOLS & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode,postman&theme=dark" alt="Tools and Infrastructure" />
+
+<br><br>
+
+EXPLORING
+
+<img src="https://skillicons.dev/icons?i=tensorflow,arduino,kali,gcp&theme=dark" alt="Exploring" />
+
+</div> <br>
+
+I would rather understand the fundamentals behind a tool than collect technologies for a résumé.
+
+> featured.builds
+<div align="center">
+REAL PROBLEMS → REAL SYSTEMS → REAL BUILDS
+</div> <table> <tr> <td width="50%" valign="top">
+♻️ BinSense
+IoT • Smart Waste Management
+
+Arduino ESP32 Ultrasonic HX711 MQ135
+
+A sensor-driven smart waste management system designed to connect the physical world with real-time software monitoring.
+
+Highlights
+Real-time waste-level monitoring
+Environmental/gas monitoring
+Solar-assisted architecture
+Sensor → Data → Dashboard pipeline
+<br> <a href="https://github.com/darshan572/Kachra"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00FF9D?style=for-the-badge&logo=github&logoColor=black&labelColor=050505" alt="View BinSense Repository" /> </a> </td> <td width="50%" valign="top">
+🍱 SmartMess
+Full-Stack • Campus Product
+
+React Node.js Express PostgreSQL JWT
+
+A hostel mess management platform focused on food booking, attendance and reducing food wastage.
+
+Highlights
+QR-based entry
+Food booking workflow
+Admin dashboard
+Role-based authorization
+Concurrency-aware booking
+</td> </tr> <tr> <td width="50%" valign="top">
+🎨 Spectra
+Creative Engineering • UI/UX
+
+React Motion UI/UX
+
+An interactive showcase focused on combining software engineering with visual experience.
+
+Highlights
+Motion-driven interface
+Interactive components
+Design-system approach
+Experience-first development
+<br> <a href="https://github.com/darshan572/Spectra"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00FF9D?style=for-the-badge&logo=github&logoColor=black&labelColor=050505" alt="View Spectra Repository" /> </a> </td> <td width="50%" valign="top">
+🛒 Narikart Commerce
+Full-Stack • E-Commerce
+
+React Node.js Authentication Database
+
+A commerce-oriented full-stack application focused on real-world product architecture.
+
+Highlights
+Authentication
+Shopping workflow
+User accounts
+Data management
+Business-oriented architecture
+<br> <a href="https://github.com/darshan572/Narikart_Commerce"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00FF9D?style=for-the-badge&logo=github&logoColor=black&labelColor=050505" alt="View Narikart Repository" /> </a> </td> </tr> </table>
+> problem.solving
+<div align="center">
+🧠 DSA • LOGIC • CONSISTENCY
+<br> <a href="https://leetcode.com/"> <img src="https://img.shields.io/badge/LeetCode-PROBLEM%20SOLVING-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> </a>
+
+<br><br>
+
+<!-- Replace DARSHAN_LEETCODE_USERNAME with your actual LeetCode username -->
+
+<img src="https://leetcard.jacoblin.cool/DARSHAN_LEETCODE_USERNAME?theme=dark&font=Abel" width="500" alt="LeetCode Stats" />
+
+</div>
+> github.telemetry
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=darshan572&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=00FF9D&icon_color=00FF9D&text_color=C9D1D9&ring_color=00FF9D" height="180" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan572&theme=dark&hide_border=true&background=050505&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" height="180" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan572&layout=donut&theme=dark&hide_border=true&bg_color=050505&title_color=00FF9D&text_color=C9D1D9&langs_count=8" height="230" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=darshan572&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+
+</div>
+> activity.graph
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan572&theme=react-dark&bg_color=050505&color=00FF9D&line=00FF9D&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+
+</div>
+> contribution.exe
+<div align="center"> <picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darshan572/darshan572/output/github-contribution-grid-snake-dark.svg" />
+
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/darshan572/darshan572/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</picture> </div>
+> achievements
+<div align="center">
+⚡ DOMAIN	WHAT I DO
+🧑‍💻 Engineering	Build full-stack applications
+🚀 Hackathons	Participate, build & compete
+🧠 Learning	DSA · Web · AI · Cybersecurity
+🎨 Creative	UI/UX · Editing · Technical Content
+🤝 Community	Build & contribute to Prahar
+🛠️ Projects	Solve real-world problems
+</div>
+> prahar.community
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=70&section=header&text=PRAHAR&fontSize=30&fontColor=00FF9D&fontAlign=50&fontAlignY=55" width="100%" alt="Prahar" />
+
+<br>
+THE TECH COMMUNITY
+
+Prahar is a student-driven technical community focused on helping students move beyond the syllabus.
+
+LEARN
+  ↓
+BUILD
+  ↓
+COLLABORATE
+  ↓
+COMPETE
+  ↓
+GROW
+What we focus on
+
+Technical Skills · Projects · Hackathons · Career Guidance · Community
+
+Your syllabus teaches you what to study.
+We help you discover what to build.
+
+</div>
+> 2026.mission
++ [==========] Build production-level React applications
++ [========= ] Go deeper into backend architecture
++ [========  ] Strengthen DSA & problem solving
++ [=======   ] Build and ship real-world products
++ [======    ] Explore applied AI / ML
++ [=====     ] Explore practical cybersecurity
++ [====      ] Contribute to open source
++ [===       ] Build meaningful technical communities
++ [==        ] Document the engineering journey
+> developer.stats
+<div align="center">
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║       ENGINEERING IS A LONG GAME.               ║
+║                                                  ║
+║       CODE       →      EXPERIENCE              ║
+║       PROJECTS   →      PROBLEM SOLVING         ║
+║       FAILURE    →      KNOWLEDGE               ║
+║       CONSISTENCY →     MASTERY                 ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+</div>
+> connect
+<div align="center"> <a href="https://github.com/darshan572"> <img src="https://img.shields.io/badge/GitHub-FOLLOW-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=050505" alt="GitHub" /> </a> <a href="https://www.instagram.com/darshanbr_33"> <img src="https://img.shields.io/badge/Instagram-CONNECT-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050505" alt="Instagram" /> </a> <!-- Replace the URL below with your actual LinkedIn profile --> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" alt="LinkedIn" /> </a>
+
+<br><br>
+
+OPEN TO
+
+Collaborations · Hackathons · Open Source · Product Ideas · Technical Communities
+
+<br>
+if (you_like_what_I_build) → let's_build_something();
+</div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,100:050505&height=120&section=footer" width="100%" alt="Footer" />
+
+ENGINEERING WITH CURIOSITY. BUILDING WITH PURPOSE.
+
+© 2026 Darshan Kumar 🚀
+
+</div> 
