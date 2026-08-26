@@ -41,7 +41,7 @@ src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=
 
 # `> whoami`
 
-```javascript
+
 const darshan = {
 
   name: "Darshan Kumar",
