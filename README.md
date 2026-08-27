@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=WHOAMI&fontSize=24&fontColor=00FF9D&fontAlign=6&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=WHOAMI&fontSize=24&fontColor=00FF9D&fontAlign=50&fontAlignY=68" width="100%"/>
 
 ```javascript
 const darshan = {
@@ -57,7 +57,7 @@ const darshan = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=SYSTEM.STATUS&fontSize=24&fontColor=00FF9D&fontAlign=6&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=SYSTEM.STATUS&fontSize=24&fontColor=00FF9D&fontAlign=50&fontAlignY=68" width="100%"/>
 
 <div align="center">
 
@@ -74,7 +74,7 @@ const darshan = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=GITHUB.SUMMARY&fontSize=24&fontColor=00FF9D&fontAlign=6&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=GITHUB.SUMMARY&fontSize=24&fontColor=00FF9D&fontAlign=50&fontAlignY=68" width="100%"/>
 
 <div align="center">
 
@@ -94,7 +94,7 @@ const darshan = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=ENGINEERING.PHILOSOPHY&fontSize=24&fontColor=00FF9D&fontAlign=6&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=ENGINEERING.PHILOSOPHY&fontSize=24&fontColor=00FF9D&fontAlign=50&fontAlignY=68" width="100%"/>
 
 ```text
 ┌──────────────────────────────────────────────────────┐
@@ -114,7 +114,7 @@ const darshan = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=TECH.STACK&fontSize=24&fontColor=00FF9D&fontAlign=6&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=TECH.STACK&fontSize=24&fontColor=00FF9D&fontAlign=50&fontAlignY=68" width="100%"/>
 
 <div align="center">
 
@@ -144,7 +144,7 @@ const darshan = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=FEATURED.BUILDS&fontSize=24&fontColor=00FF9D&fontAlign=6&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=FEATURED.BUILDS&fontSize=24&fontColor=00FF9D&fontAlign=50&fontAlignY=68" width="100%"/>
 
 <div align="center">
 
@@ -235,7 +235,7 @@ A commerce-oriented full-stack application focused on real-world product archite
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=PROBLEM.SOLVING&fontSize=24&fontColor=00FF9D&fontAlign=6&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=PROBLEM.SOLVING&fontSize=24&fontColor=00FF9D&fontAlign=50&fontAlignY=68" width="100%"/>
 
 <div align="center">
 
@@ -251,7 +251,7 @@ A commerce-oriented full-stack application focused on real-world product archite
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=GITHUB.TELEMETRY&fontSize=24&fontColor=00FF9D&fontAlign=6&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=GITHUB.TELEMETRY&fontSize=24&fontColor=00FF9D&fontAlign=50&fontAlignY=68" width="100%"/>
 
 <div align="center">
 
@@ -266,7 +266,7 @@ A commerce-oriented full-stack application focused on real-world product archite
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=ACTIVITY.GRAPH&fontSize=24&fontColor=00FF9D&fontAlign=6&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=ACTIVITY.GRAPH&fontSize=24&fontColor=00FF9D&fontAlign=50&fontAlignY=68" width="100%"/>
 
 <div align="center">
 
@@ -276,7 +276,7 @@ A commerce-oriented full-stack application focused on real-world product archite
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=CONTRIBUTION.SNAKE&fontSize=24&fontColor=00FF9D&fontAlign=6&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=CONTRIBUTION.SNAKE&fontSize=24&fontColor=00FF9D&fontAlign=50&fontAlignY=68" width="100%"/>
 
 <div align="center">
 
@@ -289,7 +289,7 @@ A commerce-oriented full-stack application focused on real-world product archite
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=ACHIEVEMENTS&fontSize=24&fontColor=00FF9D&fontAlign=6&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=ACHIEVEMENTS&fontSize=24&fontColor=00FF9D&fontAlign=50&fontAlignY=68" width="100%"/>
 
 <div align="center">
 
@@ -324,7 +324,7 @@ Prahar is a student-driven technical community focused on helping students move 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=2026.MISSION&fontSize=24&fontColor=00FF9D&fontAlign=6&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=2026.MISSION&fontSize=24&fontColor=00FF9D&fontAlign=50&fontAlignY=68" width="100%"/>
 
 ```diff
 + [==========] Build production-level React applications
@@ -340,7 +340,7 @@ Prahar is a student-driven technical community focused on helping students move 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=DEVELOPER.STATS&fontSize=24&fontColor=00FF9D&fontAlign=6&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=DEVELOPER.STATS&fontSize=24&fontColor=00FF9D&fontAlign=50&fontAlignY=68" width="100%"/>
 
 ```text
 ╔══════════════════════════════════════════════════╗
@@ -367,7 +367,7 @@ Prahar is a student-driven technical community focused on helping students move 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=CONNECT&fontSize=24&fontColor=00FF9D&fontAlign=6&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=CONNECT&fontSize=24&fontColor=00FF9D&fontAlign=50&fontAlignY=68" width="100%"/>
 
 <div align="center">
 
