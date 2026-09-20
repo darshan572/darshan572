@@ -74,26 +74,6 @@ const darshan = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=GITHUB.SUMMARY&fontSize=24&fontColor=00FF9D&fontAlign=50&fontAlignY=68" width="100%"/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshan572&theme=github_dark&bg_color=050505&title_color=00FF9D&text_color=C9D1D9&icon_color=00FF9D&border_color=00FF9D&animation=load" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darshan572&theme=github_dark&utcOffset=5.5&bg_color=050505&title_color=00FF9D&text_color=C9D1D9&icon_color=00FF9D&border_color=00FF9D&chart_color=00FF9D&animation=load" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darshan572&theme=github_dark&bg_color=050505&title_color=00FF9D&text_color=C9D1D9&icon_color=00FF9D&border_color=00FF9D&animation=load" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshan572&theme=github_dark&bg_color=050505&title_color=00FF9D&text_color=C9D1D9&border_color=00FF9D&chart_color=00FF9D&animation=load" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshan572&theme=github_dark&bg_color=050505&title_color=00FF9D&text_color=C9D1D9&border_color=00FF9D&chart_color=00FF9D&animation=load" width="49%"/>
-
-</div>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00FF9D&height=55&section=header&text=ENGINEERING.PHILOSOPHY&fontSize=24&fontColor=00FF9D&fontAlign=50&fontAlignY=68" width="100%"/>
 
 ```text
@@ -257,6 +237,8 @@ A commerce-oriented full-stack application focused on real-world product archite
 
 <img src="https://github-readme-stats.vercel.app/api?username=darshan572&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=00FF9D&icon_color=00FF9D&text_color=C9D1D9&ring_color=00FF9D" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan572&theme=dark&hide_border=true&background=050505&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan572&layout=donut&theme=dark&hide_border=true&bg_color=050505&title_color=00FF9D&text_color=C9D1D9&langs_count=8" height="230"/>
 
 <br/><br/>
 
